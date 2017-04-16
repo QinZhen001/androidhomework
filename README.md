@@ -17,9 +17,11 @@
 + classpath'com.neenbedankt.gradle.plugins:android-apt:1.8'
 
 ## Preview 
-![截图1](https://raw.githubusercontent.com/QinZhen001/androidhomework/master/screenshot/device-2017-04-16-153534.png)
-![截图2](https://raw.githubusercontent.com/QinZhen001/androidhomework/master/screenshot/device-2017-04-16-153618.png)
-![截图3](https://raw.githubusercontent.com/QinZhen001/androidhomework/master/screenshot/device-2017-04-16-153641.png)
+<img src="https://raw.githubusercontent.com/QinZhen001/androidhomework/master/screenshot/device-2017-04-16-153534.png" width=300/>
+<img src="https://raw.githubusercontent.com/QinZhen001/androidhomework/master/screenshot/device-2017-04-16-153618.png" width=300/>
+<img src="https://raw.githubusercontent.com/QinZhen001/androidhomework/master/screenshot/device-2017-04-16-153641.png" width=300/>
+
+
 
 >3115000039  秦臻
 >时间有限，有些地方没有完善，以后有空在搞。。。
