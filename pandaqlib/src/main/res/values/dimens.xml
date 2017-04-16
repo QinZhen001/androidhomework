@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fixed_min_width">120dp</dimen>
+    <dimen name="fixed_min_width_small_views">104dp</dimen>
+    <dimen name="fixed_max_width">168dp</dimen>
+    <dimen name="fixed_width_padding">12dp</dimen>
+
+    <dimen name="fixed_height">56dp</dimen>
+    <dimen name="fixed_height_top_padding_inactive">2dp
+    </dimen><!-- 8(Top Padding) - 12/2(extra padding due to badges) = 2 -->
+    <dimen name="fixed_height_top_padding_active">0dp
+    </dimen><!-- 6(Top Padding) - 12/2(extra padding due to badges) = 0 -->
+    <dimen name="fixed_height_bottom_padding">10dp</dimen>
+
+    <dimen name="fixed_label_active">14sp</dimen>
+    <dimen name="fixed_label_inactive">12sp</dimen>
+    <item name="fixed_label_active_to_inactive_ratio" format="float" type="dimen">0.857</item>
+
+    <dimen name="fixed_icon_grid">24dp</dimen>
+    <dimen name="fixed_icon_badge_grid_height">36dp
+    </dimen><!-- this adds 6 dp extra to top and bottom icon -->
+    <dimen name="fixed_icon_badge_grid_width">48dp
+    </dimen><!-- this adds 6 dp extra to top and bottom icon -->
+
+
+    <dimen name="shifting_min_width_active">96dp</dimen>
+    <dimen name="shifting_max_width_active">168dp</dimen>
+    <dimen name="shifting_min_width_inactive">64dp</dimen>
+    <dimen name="shifting_max_width_inactive">96dp</dimen>
+    <dimen name="shifting_width_custom_padding">6dp</dimen>
+
+    <dimen name="shifting_height">56dp</dimen>
+    <dimen name="shifting_height_bottom_padding_inactive">16dp
+    </dimen><!-- not used because in inactive state text-view will be hidden and for icon top padding would be enough -->
+    <dimen name="shifting_height_bottom_padding_active">10dp</dimen>
+    <dimen name="shifting_height_top_padding_active">0dp
+    </dimen><!-- 6(Top padding) - 12/2(extra padding due to badges) = 0 -->
+    <dimen name="shifting_height_top_padding_inactive">10dp
+    </dimen><!-- 56(total) - 24(icon) - 16(bottom padding inactive) = 16 ||| 16 - 12/2(extra padding due to badges)  = 10-->
+
+    <dimen name="shifting_label">14sp</dimen>
+
+
+    <dimen name="shifting_icon_grid">24dp</dimen>
+    <dimen name="shifting_icon_badge_grid_height">36dp</dimen>
+    <dimen name="shifting_icon_badge_grid_width">48dp</dimen>
+
+    <dimen name="bottom_navigation_elevation">8dp</dimen>
+    <dimen name="bottom_navigation_height">56dp</dimen>
+    <dimen name="bottom_navigation_padded_height">64dp</dimen>
+    <dimen name="bottom_navigation_top_margin_correction">-8dp</dimen><!-- 64 - 56 = 8 -->
+
+    <dimen name="badge_text_size">12sp</dimen><!-- 10 -->
+    <dimen name="badge_corner_radius">13dp</dimen><!-- 15 -->
+    <dimen name="badge_width_padding">4dp</dimen><!-- 4 -->
+    <dimen name="badge_height_padding">1dp</dimen><!-- 1 -->
+    <dimen name="badge_top_margin">2dp</dimen><!-- 2 -->
+
+    <dimen name="collapsible_flag_tv_height">32dp</dimen>
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="nav_header_height">240dp</dimen>
+    <dimen name="user_image_size">80dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="text_size_big">20sp</dimen>
+    <dimen name="text_size_mid">18sp</dimen>
+    <dimen name="text_size_small">16sp</dimen>
+    <dimen name="text_size_min">14sp</dimen>
+    <dimen name="userimage_border_width">2dp</dimen>
+    <dimen name="recycler_header_height">200dp</dimen>
+    <dimen name="recycler_header_indi_height">16dp</dimen>
+    <dimen name="distance_from_tow_indicator">3dp</dimen>
+    <dimen name="indicator_radius">2dp</dimen>
+    <dimen name="news_image_width">80dp</dimen>
+    <dimen name="news_image_height">64dp</dimen>
+    <dimen name="news_item_height">86dp</dimen>
+    <dimen name="app_bar_height">280dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="floating_button_bmargin">72dp</dimen>
+    <dimen name="splash_image_width">88dp</dimen>
+    <dimen name="toolbar_title_width">240dp</dimen>
+    <dimen name="splash_image_top_margin">160dp</dimen>
+    <dimen name="video_type_text_height">32dp</dimen>
+    <dimen name="video_type_card_height">96dp</dimen>
+    <dimen name="typed_video_item_height">116dp</dimen>
+    <dimen name="video_info_tab_height">40dp</dimen>
+    <dimen name="base_margin">16dp</dimen>
+    <dimen name="jc_video_player_height">200dp</dimen>
+    <dimen name="test_image_width">80dp</dimen>
+    <dimen name="elevation_height">8dp</dimen>
+    <dimen name="comment_userimag_size">32dp</dimen>
+    <dimen name="nav_item_height">48dp</dimen>
+
+
+</resources>

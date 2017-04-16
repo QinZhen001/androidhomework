@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/refresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:slopValue="20">
+
+        <com.pandaq.pandaqlib.magicrecyclerView.MagicRecyclerView
+            android:id="@+id/magiccycler_news"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:footer_layout="@layout/recycler_footer_layout"/>
+
+
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+    <TextView
+        android:id="@+id/empty_msg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/empty_msg"
+        android:visibility="gone"/>
+</RelativeLayout>
