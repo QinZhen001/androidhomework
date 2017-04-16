@@ -16,6 +16,7 @@
 + classpath 'com.android.tools.build:gradle:2.3.1'
 + classpath'com.neenbedankt.gradle.plugins:android-apt:1.8'
 
+
 ![截图1](https://raw.githubusercontent.com/QinZhen001/androidhomework/master/screenshot/device-2017-04-16-153534.png)
 ![截图2](https://raw.githubusercontent.com/QinZhen001/androidhomework/master/screenshot/device-2017-04-16-153618.png)
 ![截图3](https://raw.githubusercontent.com/QinZhen001/androidhomework/master/screenshot/device-2017-04-16-153641.png)
