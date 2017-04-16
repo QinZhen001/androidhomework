@@ -17,15 +17,9 @@
 + classpath'com.neenbedankt.gradle.plugins:android-apt:1.8'
 
 
-<img src="./images/1492331701707.jpg" width = "300" height = "700" alt="截图1"/>
- 
-***
-
-<img src="./images/1492331704256.jpg" width = "300" height = "700" alt="截图2"/>
-
-***
-
-<img src="./images/1492331701466.jpg" width = "300" height = "700" alt="截图2"/>
+<img src="https://github.com/QinZhen001/androidhomework/blob/master/screenshot/device-2017-04-16-153534.png?raw=true" width = "300" height = "700" alt="截图1"/>
+<img src="https://github.com/QinZhen001/androidhomework/blob/master/screenshot/device-2017-04-16-153618.png?raw=true" width = "300" height = "700" alt="截图2"/>
+<img src="https://github.com/QinZhen001/androidhomework/blob/master/screenshot/device-2017-04-16-153641.png?raw=true" width = "300" height = "700" alt="截图2"/>
  
 >3115000039  秦臻
 >时间有限，有些地方没有完善，以后有空在搞。。。
